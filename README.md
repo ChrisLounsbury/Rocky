@@ -21,7 +21,7 @@ open 'codex://pets/install?name=Rocky&imageUrl=https%3A%2F%2Fraw.githubuserconte
 Download the zip file, extract and copy the Rocky folder into:
 
 ```text
-~/.codex/pets/rocky/
+~/.codex/pets/
 ```
 
 Required files:
