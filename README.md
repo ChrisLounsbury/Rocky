@@ -1,6 +1,6 @@
 # Rocky Codex Pet
 
-A custom Codex v2 pet inspired by Rocky: a faceless triangular-bodied Eridian with grounded jointed stone limbs, turquoise mineral patches, blunt tapered contacts, and musical-tone speech via digital converter.
+A custom Codex v2 pet inspired by Rocky: the faceless buddy of Grace and gifted Eridian engineer.
 
 ## Install
 
