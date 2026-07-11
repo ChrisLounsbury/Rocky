@@ -1,3 +1,7 @@
+<img width="168" height="135" alt="Rocky_2" src="https://github.com/user-attachments/assets/9a243c62-f8c8-4cb3-b0fb-448be079ec2f" />
+<img width="949" height="205" alt="Rocky_1" src="https://github.com/user-attachments/assets/843e2993-c98c-4623-b3dc-b0cce27a8e38" />
+
+
 # Rocky Codex Pet
 
 A custom Codex v2 pet inspired by Rocky: the faceless buddy of Grace and gifted Eridian engineer.
