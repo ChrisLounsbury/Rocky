@@ -4,7 +4,7 @@ A custom Codex v2 pet inspired by Rocky: the faceless buddy of Grace and gifted 
 
 ## Install
 
-After this repository is pushed to GitHub, install Rocky with this Codex pet link:
+Codex auto deployment links below, though currently these appear to be hit and miss depending on the installed Codex version.  Manual deployment steps are below.
 
 ```text
 codex://pets/install?name=Rocky&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FChrisLounsbury%2FRocky%2Fmain%2Fspritesheet.webp&description=A%20faceless%20triangular-bodied%20Eridian%20pet%20with%20grounded%20stone%20limbs%2C%20turquoise%20mineral%20patches%2C%20and%20musical-tone%20speech%20via%20digital%20converter.&spriteVersionNumber=2
@@ -18,7 +18,7 @@ open 'codex://pets/install?name=Rocky&imageUrl=https%3A%2F%2Fraw.githubuserconte
 
 ## Manual install
 
-Copy these files into:
+Download the zip file, extract and copy the Rocky folder into:
 
 ```text
 ~/.codex/pets/rocky/
